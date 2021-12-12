@@ -37,6 +37,5 @@ yarn install
 yarn run start
 
 
-Note: Chrome will open, then click on right side **Run 4 integration specs**
-
 ```
+#### Note: Chrome will open, then click on right side **Run 4 integration specs**
