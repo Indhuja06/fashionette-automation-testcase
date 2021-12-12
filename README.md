@@ -37,6 +37,6 @@ yarn install
 yarn run start
 
 
-Note: Chrome will open, then click run test cases
+Note: Chrome will open, then click on right side **Run 4 integration specs**
 
 ```
